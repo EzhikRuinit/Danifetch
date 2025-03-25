@@ -1,3 +1,5 @@
+**DANIFETCH IS NOW ON CODEBERG!! CHECK https://codeberg.org/0uppy/Danifetch!!**
+
 **Very poorly made bash script thingy that works like a silly fetch like Neofetch, Fastfetch, etc.**
 
 **Feel free to use this if you find it silly!!**
